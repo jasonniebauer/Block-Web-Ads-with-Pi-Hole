@@ -15,8 +15,8 @@ Write image to micro SD card (Stretch Lite, no GUI)
 - SSH pi@IPADDRESS
 
 ## Login
-Login to the Raspberry Pi using the following default credentials: 
-username: pi
+Login to the Raspberry Pi using the following default credentials:  
+username: pi  
 password: raspberry
 
 ### Change Password
