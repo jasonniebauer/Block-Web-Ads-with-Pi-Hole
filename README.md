@@ -1,4 +1,4 @@
-# Secure DNS with Pi-Hole
+# Block Web Ads with Pi-Hole
 
 Pi-Hole is an open source ad blocker.
 
