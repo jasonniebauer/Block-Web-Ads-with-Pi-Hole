@@ -68,3 +68,5 @@ We now have our IP address url and password that we need to login to the web int
 
 [Adafruit PDF for Pi-Hole Zero](https://cdn-learn.adafruit.com/downloads/pdf/pi-hole-ad-blocker-with-pi-zero-w.pdf)  
 [Setting up a Pi Hole for whole-home ad/tracker blocking](https://www.jeffgeerling.com/blog/2017/setting-pi-hole-whole-home-adtracker-blocking)
+[BalenaEtcher](https://www.balena.io/blog/deploy-network-wide-ad-blocking-with-pi-hole-and-a-raspberry-pi/?utm_source=efp&utm_medium=etcher&utm_campaign=balena-pihole&utm_content=v1&u_id=16ba5f0d4e03a6-0efcab481e1106-76766f30-130980-16ba5f0d4e190e)
+[DanTheIOTMan.com](https://dantheiotman.com/2018/10/23/blocking-web-ads-with-pi-hole/)
