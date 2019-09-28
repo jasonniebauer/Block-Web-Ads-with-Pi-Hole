@@ -1,4 +1,4 @@
-# Deploy Network-wide Ad-blocking
+# Deploy Network-wide Ad Blocking
 
 Pi-Hole is an open source ad blocker.
 
